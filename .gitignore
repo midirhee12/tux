@@ -170,3 +170,6 @@ tux/extensions/*
 # misc
 slim.report.json
 prisma_binaries/
+
+# direnv
+.direnv/
